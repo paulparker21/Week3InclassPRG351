@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Charidentifier
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Charidentifier\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=c
+comment2.target=boolean\ isVowel(char)
+comment3.params=c
+comment3.target=boolean\ isUpperCase(char)
+numComments=4
